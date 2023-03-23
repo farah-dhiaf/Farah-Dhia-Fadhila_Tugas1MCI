@@ -2,6 +2,9 @@
 
 Penugasan 1 Camin MCI 2022
 
+Nama	: Farah Dhia Fadhila
+NRP	: 5025211030
+
 ## Tugas JavaScript
 1. Buatkan program menggunakan Function Expression dengan JavaScript dengan tujuan menampilkan kalimat (“Saya Calon Admin MCI”) dengan delay 3000 ms lalu tampilkan nama anda.
 
